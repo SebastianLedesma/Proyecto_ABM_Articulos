@@ -1,0 +1,6 @@
+ar\com\articulos\java\test\TestPrincipal.class
+ar\com\articulos\java\enumerators\TipoArticulo.class
+ar\com\articulos\java\connectors\Conector.class
+ar\com\articulos\java\entities\Articulo.class
+ar\com\articulos\java\jdbc\ArticuloRepository.class
+ar\com\articulos\java\interfaces\I_ArticuloRepository.class
